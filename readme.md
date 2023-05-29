@@ -34,4 +34,4 @@ value : 0 or 1
 `OwnCar` : Whether the customers own a car or not (value : 0 or 1)
 `NumberOfChildrenVisiting` : Total number of children with age less than 5 planning to take the trip with the customer
 `Designation` : Designation of the customer in the current organization (value : Executive, Manager, Senior Manager , AVP, VP)
-`MonthlyIncome` : Gross monthly income of the customer
+`MonthlyIncome` : Gross monthly income of the customer.
