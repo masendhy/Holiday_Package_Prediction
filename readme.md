@@ -15,8 +15,7 @@
 ### **Column Description**
 
 `CustomerID` : Unique customer ID
-`ProdTaken` : Unique customer
-value : 0 or 1
+`ProdTaken` : Unique customer (value : 0 or 1)
 `Age` : Age of customer
 `TypeofContact` : How customer was contacted (value : Company Invited or Self Inquiry)
 `CityTier` : City tier depends on the development of a city, population, facilities, and living standards.(value : The categories are ordered i.e. Tier 1 > Tier 2 > Tier 3)
